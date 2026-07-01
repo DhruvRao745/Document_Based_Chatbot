@@ -129,4 +129,4 @@ Document_Based_Chatbot/
 ## Author
 
 **Dhruv Kumar Rao**  
-[GitHub](https://github.com/DhruvRao745) • [Email](mailto:Dhruvrao434@gmail.com)
+[GitHub](https://github.com/DhruvRao745) • [Email](mailto:dhruvrao434@gmail.com)
